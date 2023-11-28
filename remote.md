@@ -1,6 +1,6 @@
 [К содержанию](./readme.md)
 
-## <span style="color:#f05133">Удалённые репозитории(remote add, remote rename и remote remove)</span>
+## Удалённые репозитории(remote add, remote rename и remote remove)
 
 ---
 

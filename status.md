@@ -1,6 +1,6 @@
 [К содержанию](./readme.md)
 
-## <span style="color:#f05133">Состояние файлов(status)</span>
+## Состояние файлов(status)
 
 ---
 

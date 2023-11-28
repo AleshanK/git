@@ -1,7 +1,7 @@
 [< К содержанию](./readme.md)
 
 
-## <span style="color:#f05133">Создание Git-репозитория(init и clone)</span>
+## Создание Git-репозитория(init и clone)
 
 ---
 
