@@ -7,8 +7,14 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. Something
-2. [git add](./add.md)
+1. [Создание git-репозитория (init и clone)](./init.md)
+2. [Состояние файлов (status)](./status.md)
+3. [Добавление файлов (add)](./add.md)
+4. [Запись изменений в репозиторий (commit)](./commit.md)
+5. [Удаление файлов (rm)](./rm.md)
+6. [Удалённые репозитории (remote add, remote rename и remote remove)](./remote.md)
+7. [Отправка изменений в удалённый репозиторий (push)](./push.md)
+8. [Создание веток (branch)](./branch.md)
 
 
 
