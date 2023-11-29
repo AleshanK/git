@@ -21,9 +21,6 @@ git remote add <shortname> <url>:
 
 ```bash=
 git remote rename <old name> <newname>
-git remote
-origin 
-<newname>
 ``````
 
 
@@ -35,6 +32,4 @@ origin
 
 ```bash=
 git remote remove <name>
-git remote
-origin
 ```
