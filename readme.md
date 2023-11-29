@@ -15,7 +15,7 @@ LICENSE: [MIT](./license.md)
 6. [Удалённые репозитории (remote add, remote rename и remote remove)](./remote.md)
 7. [Отправка изменений в удалённый репозиторий (push)](./push.md)
 8. [Создание веток (branch)](./branch.md)
-
+9. [Слияние в git(merge)](./merge.md)
 
 
 ---
