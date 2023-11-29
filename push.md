@@ -8,7 +8,7 @@
 ### git push
 
 
-**git push origin main** - команду для отправки коммитов на ветку main на сервер origin.
+**git push** - команду для отправки коммитов на ветку main на сервер origin.
 
 
 ```bash=

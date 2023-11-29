@@ -2,6 +2,8 @@
 
 ## Запись изменений в репозиторий(commit)
 
+---
+
 ### git commit
 
 
@@ -9,6 +11,6 @@
 
 
 ```bash=
-git commit -m "<комментарий>"
+git commit -m "<comment>"
 ```
 
